@@ -1,0 +1,14 @@
+html, body {
+    width: 100%;
+    min-height: 100vh;
+}
+body{
+    padding: 0;
+    margin: 0;;
+    background-image: radial-gradient(circle at -4.29% 45.25%, #95bd76 0, #89c07e 3.85%, #7dc186 7.69%, #70c38f 11.54%, #62c499 15.38%, #53c5a3 19.23%, #43c5ad 23.08%, #30c6b8 26.92%, #18c6c2 30.77%, #00c5cc 34.62%, #00c5d5 38.46%, #00c4de 42.31%, #00c3e6 46.15%, #0cc1ed 50%, #2ebff3 53.85%, #46bdf7 57.69%, #5bbafa 61.54%, #6eb7fc 65.38%, #80b4fc 69.23%, #91b1fb 73.08%, #a1adf9 76.92%, #b0a9f5 80.77%, #bea6ef 84.62%, #cba2e9 88.46%, #d69ee1 92.31%, #e09bd9 96.15%, #e898d0 100%);
+}
+p{
+    color: #007483b2;
+    font-size: 40px;
+    border-radius: 10px;
+}
